@@ -5,10 +5,8 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
+        React Deployment
         <img src={pic} className="" alt="logo" />
-        <p>
-        </p>
-          React Deployment
       </header>
     </div>
   );
